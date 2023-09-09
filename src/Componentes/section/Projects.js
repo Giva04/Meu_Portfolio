@@ -16,8 +16,8 @@ function Projects(){
             tech="REACT"
             descrition="Portfólio desevolvido para demostrar meus conhecimentos
             na aréa de programação!"
-            repo="https://github.com/Giva04/MeuPortfolio"
-            site="https://dncmovie.netlify.app/"
+            repo="https://github.com/Giva04/Meu_Portfolio"
+            site="https://meu-portfolio-one-chi.vercel.app/"
             />
             <Card
             img={landingPage}
