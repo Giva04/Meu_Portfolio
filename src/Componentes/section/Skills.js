@@ -14,7 +14,7 @@ function Skills(link){
             <div>
                 <a href={link='https://jogo-numero-oculto.vercel.app/'}> 
                 <img src={javascript} /></a>
-                <a href={link='https://regal-brigadeiros-857e43.netlify.app/'}>
+                <a href={link='https://lpprojetoarquitetura.netlify.app/'}>
                 <img src={html}/></a>
                 <a href={'https://poke-dex-list.vercel.app/'}>
                 <img src={css}/></a>
