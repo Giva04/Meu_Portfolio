@@ -25,7 +25,7 @@ function Projects(){
             tech="HTML, CSS e JS"
             descrition="Desenvolvimento de uma Landing Page para lançamento da formação de tecnología"
             repo="https://https://github.com/Giva04/Landing_page"
-            site="hhttps://lpdnc001.netlify.app//"
+            site="https://lpprojetoarquitetura.netlify.app/"
             />
             <Card
             img={movielist} witdh='50px'
